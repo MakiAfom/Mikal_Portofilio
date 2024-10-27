@@ -1,4 +1,7 @@
-  **Mikal_Portofilio**
+  
+  
+   **Mikal_Portofilio**
+
 **Introduction**
 Hello! I’m **Mikal Afewerk**i, a **Data Analyst** passionate about uncovering insights from data to support impactful decision-making. With expertise in Python, SQL, and machine learning, I build solutions that enhance operational efficiency, customer satisfaction, and overall business performance.
 
