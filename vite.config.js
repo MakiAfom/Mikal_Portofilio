@@ -1,13 +1,8 @@
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
+import vue from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Mikal-Portofilio/",
-  plugins: [react()],
-  server: {
-    port: 5174,
-    
-
-  },
+  base: "/",
+  plugins: [vue()],
 });
