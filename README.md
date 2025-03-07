@@ -20,7 +20,4 @@ I have experience in:
 - **Data Visualization:** Creating interactive dashboards in Power BI to present data-driven insights through charts, graphs, and treemaps.
 - **Business Insights & Recommendations:** Delivering actionable insights to optimize business strategies, like tailoring investment products based on gender preferences.
 
-![me - Copy](https://github.com/user-attachments/assets/62a4a6f2-66e9-4f83-bb6d-2f8362ae56ef)
-![me5](https://github.com/user-attachments/assets/f3eb1ddc-0743-4b37-a12f-1d905a192b04)
-
 Let’s explore how data can make a difference in my portfolio!
